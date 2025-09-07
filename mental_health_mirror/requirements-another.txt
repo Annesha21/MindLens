@@ -1,0 +1,30 @@
+# Core ML + DeepFace
+deepface==0.0.93
+tensorflow-cpu==2.19.0
+tf-keras==2.19.0
+
+# Computer vision
+opencv-python==4.10.0.84
+Pillow==10.4.0
+
+# Audio processing
+librosa==0.10.2.post1
+sounddevice==0.4.7
+SpeechRecognition==3.10.4
+pyaudio==0.2.14
+
+# Transformers + Hugging Face
+transformers==4.44.2
+torch==2.4.1
+torchaudio==2.4.1
+
+# Scientific stack
+numpy==1.26.4
+pandas==2.2.2
+matplotlib==3.9.2
+tqdm==4.66.5
+
+# Extra utilities
+hf-xet
+
+#python version - 3.11.4
